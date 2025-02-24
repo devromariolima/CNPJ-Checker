@@ -1,7 +1,5 @@
 # CNPJ-Checker
 
-# CNPJ Checker
-
 - Descrição do Projeto
 
 - CNPJ Checker é uma ferramenta em Python para automatizar a consulta de CNPJs de empresas na Receita Federal e verificar se estão ativas. Ele realiza a consulta de um conjunto de CNPJs de uma planilha Excel, obtém informações sobre as empresas e exporta os dados das empresas ativas para uma nova planilha.
