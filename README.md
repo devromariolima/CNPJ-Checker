@@ -35,7 +35,7 @@
 
 - python Cnpj_Checker.py
 
-# Limitações
+## Limitações
 
 O script processa um número limitado de linhas definido pela variável MAX_LINHAS, que pode ser alterado conforme a necessidade.
 É importante respeitar os limites de requisições da API da Receita Federal, configurando adequadamente o tempo de espera entre consultas (variável time.sleep).
